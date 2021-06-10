@@ -1,2 +1,7 @@
-# GOSSIP-real-time-chat-website-
-This is  real-time chat website in which user can connect with each other and chat.
+# Realtime_ChatApp
+
+* __npm install__
+* __node app.js__
+* __Navigate to localhost:3000__
+
+![Chatapp Pic](https://github.com/abdelfattah10/Realtime_ChatApp/blob/master/chatPic.png)
